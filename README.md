@@ -1,4 +1,4 @@
-<img src="https://im2.ezgif.com/tmp/ezgif-2-491f57244b.gif" alt="MasterHead1">
+<img src="https://i.pinimg.com/originals/f8/90/41/f8904199504633d77c3d27f869923c47.gif" alt="MasterHead">
 
 <h1 align="center">Hi 👋, I'm Saveen Dinuwara</h1>
 <h3 align="center">I am a passionate tech fanatic who is always looking to increase my knowledge and skills in the ever-changing world of technology.</h3>
@@ -9,9 +9,9 @@
 
 <img align="right" alt="Coding" width="400" src=https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif>
 
-- 🍅 I’m currently working on **Tomato leaf disease detection app.**
+- 🍅 I’m currently working on a **Tomato leaf disease detection app.**
 
-- 🌱 I’m currently learning **R, PHP, Machine Learning, Deep Learning related technologies.**
+- 💻 I’m currently learning **R, PHP, Machine Learning, Deep Learning related technologies.**
 
 - 📫 How to reach me **saveendinuwara@gmail.com**
 
